@@ -4,4 +4,4 @@ Düğüm uygulamasının GitHub Pages sitesi: tanıtım (`index.html`), gizlilik
 
 Yayın: Settings → Pages → Deploy from a branch → `main`, `/ (root)`. Adres: https://brksp.github.io/knots-website/
 
-Uygulama App Store'a çıkınca `index.html`'deki "Yakında App Store'da" rozetini mağaza bağlantısıyla değiştir. Gizlilik politikası uygulamanın veri kullanımını birebir anlatmalı; satın alma (1.1.0) gelince güncelle.
+Uygulama App Store'a çıkınca `index.html`'deki "Yakında App Store'da" rozetini mağaza bağlantısıyla değiştir. Gizlilik politikası uygulamanın veri kullanımını birebir anlatmalı. 1.1.0'ın satın alması ve Firebase Analytics'i eklendi (8 Eki 2026); uygulamaya yeni bir veri akışı girerse burası da güncellenir.
